@@ -23,6 +23,9 @@ body {
 .imgHeight{
   max-height: 300px;
 }
+.aboutRight{
+  text-align:right;
+}
 pre {
   overflow: auto;
   height:500px;
@@ -106,7 +109,7 @@ section h3.section-subheading {
   border: 1px solid #ced4da;
   border-radius: .25rem;
   width:100%;
-  padding:5%;
+  padding:2%;
   line-height: 100%;
 
   font-size: 15px;
